@@ -126,7 +126,7 @@ function Nav() {
             className="h-10 w-auto transition-transform duration-500 group-hover:rotate-[8deg]"
           />
           <span className="hidden md:inline text-[10px] uppercase tracking-[0.25em] text-muted-foreground">
-            (Pty) Ltd · ZA
+           SUPER MAN INDUSTRIES (Pty) Ltd
           </span>
         </a>
         <nav className="hidden md:flex items-center gap-10 lg:gap-12 text-[13px] uppercase tracking-[0.18em] text-muted-foreground">
