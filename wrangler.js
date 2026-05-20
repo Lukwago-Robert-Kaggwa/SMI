@@ -1,0 +1,7 @@
+export default {
+  $schema: "node_modules/wrangler/config-schema.json",
+  name: "tanstack-start-app",
+  compatibility_date: "2025-09-24",
+  compatibility_flags: ["nodejs_compat"],
+  main: "src/server.ts",
+};
